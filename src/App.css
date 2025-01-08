@@ -1,0 +1,58 @@
+
+
+.phone-screen {
+  height: 100vh;
+  background: #f5f5f5;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  border: 2px solid #ddd;
+}
+
+.header {
+  background: #007bff;
+  padding: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.content {
+  flex: 1;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.description {
+  font-size: 16px;
+  text-align: center;
+  line-height: 1.5;
+  animation: fadeIn 1s ease-in;
+}
+
+.loading-animation {
+  font-size: 14px;
+  text-align: center;
+  color: #555;
+  animation: typing 2s steps(30, end) infinite;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes typing {
+  from {
+    width: 0;
+  }
+  to {
+    width: 100%;
+  }
+}
