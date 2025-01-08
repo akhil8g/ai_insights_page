@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BookShelf/static/css/main.9f5573cc.css",
+    "main.js": "/BookShelf/static/js/main.e31bdc0a.js",
+    "static/js/488.9c92ff38.chunk.js": "/BookShelf/static/js/488.9c92ff38.chunk.js",
+    "index.html": "/BookShelf/index.html",
+    "main.9f5573cc.css.map": "/BookShelf/static/css/main.9f5573cc.css.map",
+    "main.e31bdc0a.js.map": "/BookShelf/static/js/main.e31bdc0a.js.map",
+    "488.9c92ff38.chunk.js.map": "/BookShelf/static/js/488.9c92ff38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f5573cc.css",
+    "static/js/main.e31bdc0a.js"
+  ]
+}
